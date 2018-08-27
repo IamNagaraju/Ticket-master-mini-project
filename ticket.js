@@ -78,7 +78,6 @@ function stats(ticketCode) {
     }
 
 }
-
 function filterTickets(priority) {
     tableBodyHandle.innerHTML = '';
     let count = 0;
